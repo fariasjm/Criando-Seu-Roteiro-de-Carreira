@@ -2,8 +2,9 @@
 
 Usando o prompt do Entrevistador de Carreiras (Agent 1) foram feitas as 7 perguntas.
 
-Com base nas resposta , a IA identificou 3 carreiras:
+A pertir das resposta, a IA retornou:
 
+'''
 Com base no seu perfil, identifiquei 3 carreiras muito promissoras:
 
 ════════════════════════════════════════════════════════════
@@ -86,6 +87,7 @@ Pode demandar conhecimentos mais avançados (estatística, Python) para evoluir
 📈 MERCADO:
 Empresas estão começando a criar times dedicados a IA, mas a maioria busca profissionais com experiência. É uma ótima aposta para médio prazo, mas o primeiro emprego pode ser mais difícil.
 
+'''
 
 
 
