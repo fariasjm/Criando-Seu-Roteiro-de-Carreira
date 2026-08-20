@@ -23,7 +23,8 @@ A pertir das resposta, a IA retornou:
 
  -------------------------------------------------------------------------------
 
- Aplicando o prompt Planejador de Carreiras (Agent 2) a IA criou o plano de Carreira.
+ Aplicando o prompt Planejador de Carreiras (Agent 2) a IA criou o plano de Carreira (Arquivo Plano de Carreira.md).
+ 
 
  
 
