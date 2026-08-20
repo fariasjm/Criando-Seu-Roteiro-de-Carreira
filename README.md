@@ -19,7 +19,8 @@ A pertir das resposta, a IA retornou:
     🥉 3º LUGAR: ASSISTENTE DE IA / PROMPT ENGINEER - 13/20
     ════════════════════════════════════════════════════════════
 
-    
+ Texto completo no arquivo Carreiras Indicadas.md
+ 
 
 
 
