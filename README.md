@@ -20,6 +20,11 @@ A pertir das resposta, a IA retornou:
     ════════════════════════════════════════════════════════════
 
  Texto completo no arquivo Carreiras Indicadas.md
+
+ -------------------------------------------------------------------------------
+
+ Aplicando o prompt Planejador de Carreiras (Agent 2) a IA criou o plano de Carreira.
+
  
 
 
